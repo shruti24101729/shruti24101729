@@ -36,7 +36,20 @@
 
 
 --- 
+## Kaggle Work
 
+I actively work on Data Science projects and notebooks on Kaggle.  
+You can find my detailed notebooks, experiments, and datasets here:  
+
+👉 https://www.kaggle.com/shrutijais1729
+
+My work includes:
+- Machine Learning models  
+- Data Analysis & Visualization  
+- Real-world datasets
+- NLP 
+
+Many of my notebooks have received good engagement in terms of views, upvotes, and forks.
 
 
 
