@@ -60,6 +60,7 @@ Many of my notebooks have received good engagement in terms of views, upvotes, a
 
 - **IIT JAM 2024 qualified in mathematical statistics with 90 percentile**  
 - **JEE MAINS 2014 qualified with 96 percentile**
+- **Achieved A+ (highest grade) in DBMS, Data Structures & Algorithms, and Statistics in college academics.**
 
 # 💻 Tech Stack:
 
