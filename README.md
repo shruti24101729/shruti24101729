@@ -27,7 +27,7 @@
 
 🚀 I love building **AI-powered applications** using **Streamlit** and **FastAPI**.  
 🎯 Currently exploring **Agentic AI frameworks** and **Production-ready GenAI Apps**.  
-💻 Proficient in **Java**, **C**, and **SQL** for building robust and data-driven solutions.<br>
+💻 Proficient in **Python** and **SQL** for building robust and data-driven solutions.<br>
 📐 Strong foundational knowledge in **Statistics**, **Linear Algebra**, **Probability**, and **Calculus** — the math behind the models.
 
 
